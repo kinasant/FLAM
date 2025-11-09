@@ -40,7 +40,7 @@ $$
 
 # Solution
 
-Code to the algorithms used is given [here](flam.ipynb)
+Code for the algorithms used is given [here](flam.ipynb)
 
 We are given a parametric curve, along with some of the points that lie on the curve, and asked to approximate the exact values of the parameters used. 
 
